@@ -314,6 +314,21 @@ const questions = [
         options: ["cumplirlo formalmente como en el CPPN.", "cumplirlo de manera informal.", "Todas las opciones son correctas."],
         correctAnswer: "Todas las opciones son correctas."
     },
+    {
+        question: "El deber de declarar como testigo y decir toda la verdad es:",
+        options: ["una carga pública; y la negativa, reticencia o falsedad del testimonio, más allá de constituir un delito (falso testimonio o desobediencia, depende el caso) puede producir además que se pueda ordenar la detención de un testigo cuando exista temor fundado de que se fugue, oculte o ausente.", "no es una carga pública.", "es facultativo, esto quiere decir que el testigo puede optar entre declarar o no."],
+        correctAnswer: "una carga pública; y la negativa, reticencia o falsedad del testimonio, más allá de constituir un delito (falso testimonio o desobediencia, depende el caso) puede producir además que se pueda ordenar la detención de un testigo cuando exista temor fundado de que se fugue, oculte o ausente."
+    },
+    {
+        question: "El deber de declarar como testigo, y decir toda la verdad, es una carga pública que:",
+        options: ["no admite ningún tipo de excepciones", "admite las excepciones dispuestas en los distintos procedimientos penales", "sólo puede ser relevada por el juez o el fiscal del caso."],
+        correctAnswer: "admite las excepciones dispuestas en los distintos procedimientos penales"
+    },
+    {
+        question: "El testimonio del personal policial resulta:",
+        options: ["innecesario, ya que solamente es el instructor del sumario.", ") fundamental porque ha sido uno de los testigos privilegiados, por el rol que desempeñan como principales auxiliares de la justicia, ya que tienen a su cargo no sólo la prevención de las conductas delictivas sino también son quienes generalmente confeccionan el sumario policial que da origen al proceso penal.", "sobreabundante, ya que se cuenta con las actas labradas y la declaración de los testigos."],
+        correctAnswer: ") fundamental porque ha sido uno de los testigos privilegiados, por el rol que desempeñan como principales auxiliares de la justicia, ya que tienen a su cargo no sólo la prevención de las conductas delictivas sino también son quienes generalmente confeccionan el sumario policial que da origen al proceso penal."
+    },
 ];
 
 let correctAnswersCount = 0;
