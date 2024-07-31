@@ -523,10 +523,133 @@ const questions = [
             "Expresamente en ambas legislaciones (CPPCABA y CPPN)"
         ],
         correctAnswer: "Sólo en los casos donde sea aplicado el Código Procesal Penal de la Ciudad Autónoma de Buenos Aires."
-    }
+    },
+        {
+            question: "Ser testigo de actuación es una carga pública que",
+            options: [
+                "no admite ningún tipo de excepción",
+                "admite algunas excepciones previstas por los códigos procesales",
+                "sólo puede ser eximida por la autoridad judicial que atiende la consulta"
+            ],
+            correctAnswer: "admite algunas excepciones previstas por los códigos procesales"
+        },
+        {
+            question: "¿El detenido puede negarse a firmar el acta de detención?",
+            options: [
+                "Sí. Se deberá hacer constar al final del acta.",
+                "Dependerá de lo que nos diga la autoridad judicial.",
+                "No. Siempre debe firmar."
+            ],
+            correctAnswer: "Sí. Se deberá hacer constar al final del acta."
+        },
+        {
+            question: "Al momento de proceder al secuestro de elementos en el marco de una contravención, el personal documentará este acto en...",
+            options: [
+                "En el campo destinado a ese fin del acta contravencional.",
+                "En un acta de secuestro para dar legalidad al acto.",
+                "Un Acta Circunstanciada."
+            ],
+            correctAnswer: "En el campo destinado a ese fin del acta contravencional."
+        },
+        {
+            question: "Ante un hecho que no constituye falta, contravención o delito. En caso que el personal policial considere registrar el hecho, podrá labrar la siguiente acta:",
+            options: [
+                "Acta circunstanciada o constancia en parte del móvil.",
+                "Acta Contravencional.",
+                "Acta de Infracción de Tránsito."
+            ],
+            correctAnswer: "Acta circunstanciada o constancia en parte del móvil."
+        },
+        {
+            question: "Ante un presunto contraventor menor de edad, ¿Qué temperamento debe adoptar el personal policial interventor?",
+            options: [
+                "Labrar el acta contravencional correspondiente, llevar adelante consulta con la Fiscalía en turno y llamar al Consejo de Niños, Niñas y Adolescentes de la CABA.",
+                "Proceder a la aprehensión del menor e inmediata consulta con autoridad judicial para que avale su traslado al Instituto Inchausti.",
+                "Debe invitarlo a retirarse del lugar, dado que los menores son inimputables en materia contravencional."
+            ],
+            correctAnswer: "Labrar el acta contravencional correspondiente, llevar adelante consulta con la Fiscalía en turno y llamar al Consejo de Niños, Niñas y Adolescentes de la CABA."
+        },
+        {
+            question: "Ante una intervención en un caso de \"flagrancia\" por un \"delito NO transferido\" a la justicia de C.A.B.A., el funcionario policial deberá hacer únicamente consulta con el Juzgado Nacional en lo Criminal y Correccional...",
+            options: [
+                "Falso.",
+                "Verdadero."
+            ],
+            correctAnswer: "Falso."
+        },
+        {
+            question: "Cuando la persona incursa en una presunta contravención se hallare en estado de embriaguez alcohólica o bajo los efectos de cualquier tóxico, la autoridad debe conducirla, directa e inmediatamente, a un establecimiento asistencial:",
+            options: [
+                "Verdadero.",
+                "Falso."
+            ],
+            correctAnswer: "Verdadero."
+        },
+        {
+            question: "Durante el desarrollo de su servicio ordinario, un efectivo policial observa a la distancia que el encargado de un local comercial instaló una mesa sobre la vereda frente a la fachada del establecimiento, donde exhibe y ofrece productos que comercializa en su local. El funcionario policial interviene, labra el acta contravencional y procede al secuestro de todos los elementos involucrados. Al terminar de verter todo en el acta y dar lectura a viva voz de su contenido; les solicita a los intervinientes que rubriquen al pie de la misma. Es en este punto que el presunto contraventor se niega a firmar, es por ello que el efectivo debe:",
+            options: [
+                "Continuar la diligencia con normalidad, dejando asentado en el acta esta circunstancia en el campo destinado a este efecto, siempre en presencia de los testigos de actuación.",
+                "Intimarlo en el acto a firmar bajo apercibimiento de ser conducido por la fuerza pública.",
+                "Continuar la diligencia con normalidad, sin necesidad de asentar nada, ya que ambos testigos presenciaron su negativa."
+            ],
+            correctAnswer: "Continuar la diligencia con normalidad, dejando asentado en el acta esta circunstancia en el campo destinado a este efecto, siempre en presencia de los testigos de actuación."
+        },
+        {
+            question: "Durante un procedimiento contravencional debido a un masculino que sin autorización cuidaba vehículos en la vía pública exigiendo dinero por ello (vulgarmente conocido como Trapito), se percibe aliento etílico y dificultades para hablar por parte del presunto contraventor, razón por la cual...",
+            options: [
+                "Se solicita unidad sanitaria del SAME para que un facultativo determine si el causante presenta un estado que amerite su traslado a centro asistencial.",
+                "Se solicita la colaboración de Agentes del Cuerpo de Tránsito para que comisione personal a los efectos de llevar a cabo Test de Alcoholemia.",
+                "Aunque presente dificultades para comprender el acto, se prosigue normalmente con el procedimiento."
+            ],
+            correctAnswer: "Se solicita unidad sanitaria del SAME para que un facultativo determine si el causante presenta un estado que amerite su traslado a centro asistencial."
+        },
+        {
+            question: "Efectivo policial de guardia en Av. Regimiento Patricios Nº 1.162, es alertado por una vecina sobre una motocicleta que circulaba por la vereda. El personal policial hace cesar la situación, identifica al conductor y constata que el moto vehículo NO posee patente. Es autoridad competente:",
+            options: [
+                "Dirección General de Administración de Infracciones. DGAI.",
+                "El Juzgado Nacional en lo Criminal y Correccional Federal en turno.",
+                "El Juzgado Nacional de Menores en turno."
+            ],
+            correctAnswer: "Dirección General de Administración de Infracciones. DGAI."
+        },
+        {
+            question: "El Acta Circunstanciada se utiliza de ser necesario conforme al principio de oportunidad y las directivas particulares en el lugar de la intervención. Tiene utilidad, entre otras, para dejar constancia o plasmar una actuación policial.",
+            options: [
+                "Verdadero.",
+                "Falso."
+            ],
+            correctAnswer: "Verdadero."
+        },
+        {
+            question: "El domingo por la madrugada personal de la Policía de la Ciudad identifica a una persona en la vía pública, solicita impedimento a comando arrojando resultado positivo: posee una captura vigente a requerimiento del Juzgado Nro. 2, en lo Correccional de la Provincia de Mendoza. El personal policial debe:",
+            options: [
+                "Proceder a la detención y labrar el acta respectiva de detención y lectura de derechos y garantías.",
+                "Mantiene comunicación con el 0800-333-fiscal, a fin de recibir directivas.",
+                "Notificar a la persona de su presentación en forma inmediata a la sede del juzgado requirente, permitiendo que se retire del lugar la persona."
+            ],
+            correctAnswer: "Proceder a la detención y labrar el acta respectiva de detención y lectura de derechos y garantías."
+        },
+        {
+            question: "El juez de menores conocerá en la investigación de los delitos de acción pública (no transferidos a CABA) cometidos por menores de dieciocho (18) años al tiempo de la comisión del hecho.",
+            options: [
+                "Verdadero.",
+                "Falso."
+            ],
+            correctAnswer: "Verdadero."
+        },
+        {
+            question: "El personal policial arriba a la intersección de Av. de los Incas y Av. Triunvirato, donde observa un hombre parado frente a un ómnibus aplicando golpes con sus puños al parabrisas de la unidad. A simple vista se observan los vidrios astillados y rajados. Testigos en el lugar refieren que esta persona estaba alterada pues el chofer no abría la puerta de acceso. Se deberá dar intervención a:",
+            options: [
+                "La Fiscalía Penal, Contravencional y de Faltas en turno del MPF (CABA).",
+                "La Fiscalía Nacional en lo Criminal y Correccional en turno.",
+                "El Juzgado Nacional en lo Criminal y Correccional en turno."
+            ],
+            correctAnswer: "La Fiscalía Penal, Contravencional y de Faltas en turno del MPF (CABA)."
+        },
+               
+         /**************************** dejé en la página 12 del archivo curso 2021 ***************************/
+    ];
     
-    /**************************** dejé en la página 9 del archivo curso 2021 ***************************/
-];
 let correctAnswersCount = 0;
 let currentQuestionIndex;
 
