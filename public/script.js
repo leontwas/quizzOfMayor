@@ -384,6 +384,58 @@ const questions = [
         options: ["las declaraciones de los testigos pueden ser reemplazadas por la lectura de las formalmente recibidas durante la investigación preparatoria.", "por regla general las declaraciones de los testigos no pueden ser reemplazadas por la lectura de las formalmente recibidas durante la investigación preparatoria, pero admite alguna excepción.", "las declaraciones de los testigos nunca pueden ser reemplazadas por la lectura de las formalmente recibidas durante la investigación preparatoria."],
         correctAnswer: "por regla general las declaraciones de los testigos no pueden ser reemplazadas por la lectura de las formalmente recibidas durante la investigación preparatoria, pero admite alguna excepción."
     },
+    {
+        question: "En lo que hace a la excepción a declarar de los testigos:",
+        options: ["la el CPPN establece la prohibición de declarar contra el imputado por parte del cónyuge, ascendientes, descendientes o hermanos bajo pena de nulidad, salvo que fueran víctimas directamente del delito o lo fuera algún pariente del mismo o mayor grado de parentesco con el autor; mientras que en el CPPCABA no hay prohibición sino la posibilidad de abstención.", "tanto el CPPCABA como el CPPN le brindan la posibilidad de abstenerse de declarar contra el imputado al cónyuge, ascendientes, descendientes o hermanos bajo pena de nulidad, salvo que fueran víctimas directamente del delito o lo fuera algún pariente del mismo o mayor grado de parentesco con el autor", "tanto el CPPCABA como el CPPN le prohíben declarar contra el imputado al cónyuge, ascendientes, descendientes o hermanos bajo pena de nulidad, salvo que fueran víctimas directamente del delito o lo fuera algún pariente del mismo o mayor grado de parentesco con el autor."],
+        correctAnswer: "el CPPN establece la prohibición de declarar contra el imputado por parte del cónyuge, ascendientes, descendientes o hermanos bajo pena de nulidad, salvo que fueran víctimas directamente del delito o lo fuera algún pariente del mismo o mayor grado de parentesco con el autor; mientras que en el CPPCABA no hay prohibición sino la posibilidad de abstención."
+    },
+    {
+        question: "En lo que hace al registro de lugares mediante orden de allanamiento:",
+        options: [
+            "sólo procede con una investigación penal iniciada y con el único fin de dar con cosas o prueba vinculada al delito",
+            "iniciada una investigación penal, puede ser ordenado un allanamiento si existen motivos como para sospechar que en un domicilio se pueden encontrar cosas o pruebas vinculadas al delito investigado; se puede lograr la aprehensión del imputado o bien resulta necesario el ingreso para imponer alguna medida cautelar.",
+            "Ninguna de las opciones es correcta."
+        ],
+        correctAnswer: "iniciada una investigación penal, puede ser ordenado un allanamiento si existen motivos como para sospechar que en un domicilio se pueden encontrar cosas o pruebas vinculadas al delito investigado; se puede lograr la aprehensión del imputado o bien resulta necesario el ingreso para imponer alguna medida cautelar."
+    },
+    {
+        question: "Inmediatamente de verificado un ilícito, el personal policial debe",
+        options: [
+            "comunicar a su superior lo acontecido y esperar respuesta para su avance",
+            "realizar las tareas de protección de evidencia, convocar los peritos, mantener bajo custodia a los sospechosos, y comunicar el hecho y las circunstancias al órgano judicial competente",
+            "comunicar el hecho y las circunstancias al órgano judicial competente, y si la admite, recabar sólo las pruebas que éste le indique"
+        ],
+        correctAnswer: "realizar las tareas de protección de evidencia, convocar los peritos, mantener bajo custodia a los sospechosos, y comunicar el hecho y las circunstancias al órgano judicial competente"
+    },
+    {
+        question: "La actuación en un procedimiento penal, debe ser supervisada por el órgano judicial que dirige la investigación, siendo éstos",
+        options: [
+            "en la justicia de la Ciudad, siempre el fiscal",
+            "en la justicia nacional, siempre el fiscal",
+            "en la justicia federal, siempre el fiscal"
+        ],
+        correctAnswer: "en la justicia federal, siempre el fiscal"
+    },
+    {
+        question: "La consulta con la autoridad judicial competente, debe ser",
+        options: [
+            "netamente técnica y por el personal altamente calificado, debiendo procurar que las actas tengan el mismo estilo y sean escritas con términos jurídicos",
+            "sencilla, sin necesidad de utilizar términos jurídicos, pero que no omita los detalles relevantes y las actas deben realizarse del mismo modo, poniendo el énfasis en la descripción del hecho y las circunstancias que lo rodearon",
+            "abreviando al máximo el diálogo, sólo referir el día, la hora, el lugar, la calificación legal y las personas involucradas, y así de resumido volcarlo en el acta."
+        ],
+        correctAnswer: "sencilla, sin necesidad de utilizar términos jurídicos, pero que no omita los detalles relevantes y las actas deben realizarse del mismo modo, poniendo el énfasis en la descripción del hecho y las circunstancias que lo rodearon"
+    },
+    {
+        question: "La descripción circunstanciada del hecho, se refiere",
+        options: [
+            "asentar los derechos que le asisten al imputado",
+            "dejar constancia de la comunicación mantenida con el órgano judicial",
+            "al episodio que generó la intervención del funcionario policial"
+        ],
+        correctAnswer: "al episodio que generó la intervención del funcionario policial"
+    }
+
+    /**************************** dejé en la página 6 del archivo curso 2021 ***************************/
 ];
 
 let correctAnswersCount = 0;
