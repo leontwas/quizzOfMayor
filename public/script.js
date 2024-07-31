@@ -414,7 +414,7 @@ const questions = [
             "en la justicia nacional, siempre el fiscal",
             "en la justicia federal, siempre el fiscal"
         ],
-        correctAnswer: "en la justicia federal, siempre el fiscal"
+        correctAnswer: "en la justicia de la Ciudad, siempre el fiscal"
     },
     {
         question: "La consulta con la autoridad judicial competente, debe ser",
@@ -433,9 +433,99 @@ const questions = [
             "al episodio que generó la intervención del funcionario policial"
         ],
         correctAnswer: "al episodio que generó la intervención del funcionario policial"
+    },
+    {
+        question: "La Policía de la Ciudad tiene la obligación de responder a las órdenes judiciales impartidas:",
+        options: [
+            "conforme el rol de auxiliares de la Justicia que se les asigna tanto en los códigos procesales como en la Ley de Seguridad Pública.",
+            "por costumbre",
+            "conformes directivas de la superioridad."
+        ],
+        correctAnswer: "conforme el rol de auxiliares de la Justicia que se les asigna tanto en los códigos procesales como en la Ley de Seguridad Pública."
+    },
+    {
+        question: "La policía tiene la obligación de comunicar al órgano judicial todo conocimiento que tenga de un delito con el objeto de que",
+        options: [
+            "convalide los actos procesales que hubiere cumplido de manera autónoma",
+            "disponga las diligencias necesarias para la investigación",
+            "Todas las opciones son correctas."
+        ],
+        correctAnswer: "Todas las opciones son correctas."
+    },
+    {
+        question: "La regla general, indica que el acta de prevención debe remitirse inmediatamente a la autoridad judicial competente cuando",
+        options: [
+            "lo solicite la víctima del delito",
+            "lo solicite el imputado o su defensor",
+            "se adopten medidas precautorias tales como detención, secuestro, clausura"
+        ],
+        correctAnswer: "se adopten medidas precautorias tales como detención, secuestro, clausura"
+    },
+    {
+        question: "Las personas incapaces, dementes e insanas, si son adultos pueden ser testigos de actuación.",
+        options: [
+            "cuando resultan víctimas",
+            "en ningún caso",
+            "cuando el personal policial lo considera pertinente"
+        ],
+        correctAnswer: "en ningún caso"
+    },
+    {
+        question: "Los menores de dieciocho años pueden ser testigos de actuación",
+        options: [
+            "cuando resultan víctimas",
+            "en ningún caso",
+            "cuando el personal policial lo considera pertinente"
+        ],
+        correctAnswer: "en ningún caso"
+    },
+    {
+        question: "Para evitar comunicaciones innecesarias, se recomienda que la comunicación a la autoridad judicial, en un supuesto de flagrancia y con persona detenida, las efectúe",
+        options: [
+            "en todos los casos, el encargado del móvil 100, que es convocado para tomar conocimiento de lo realizado por el interventor de la flagrancia",
+            "de ser posible quien previno en el caso flagrante, toda vez que posee mayores conocimientos sobre las circunstancias que rodeador al hecho",
+            "el jefe de servicio de la Comisaría, por ser la máxima autoridad a cargo"
+        ],
+        correctAnswer: "de ser posible quien previno en el caso flagrante, toda vez que posee mayores conocimientos sobre las circunstancias que rodeador al hecho"
+    },
+    {
+        question: "Puede brindar una declaración testimonial y ser entrevistado inmediatamente por el personal policial en la Comisaría, la persona que",
+        options: [
+            "es testigo y/o víctima del hecho, en la medida que sea mayor de edad",
+            "es víctima del hecho, aun siendo menor de edad",
+            "es testigo del hecho, aun siendo menor de edad"
+        ],
+        correctAnswer: "es testigo y/o víctima del hecho, en la medida que sea mayor de edad"
+    },
+    {
+        question: "Respecto de la facultad y deber de abstención en una declaración testimonial, al personal policial:",
+        options: [
+            "no le corresponden excepciones como a los testigos.",
+            "le corresponden excepciones, pero distintas, por tratarse de personal de la fuerza.",
+            "le corresponden las mismas excepciones para declarar como testigo que el resto de las personas, esto es las que fueron previstas por el legislador a favor de la convivencia, la protección y preservación familiar."
+        ],
+        correctAnswer: "le corresponden las mismas excepciones para declarar como testigo que el resto de las personas, esto es las que fueron previstas por el legislador a favor de la convivencia, la protección y preservación familiar."
+    },
+    {
+        question: "Respecto de la requisa, los funcionarios de policía",
+        options: [
+            "se encuentran facultados a actuar de modo autónomo siempre que sea necesario para preservar la integridad física, libertad o los bienes de las personas, o la prueba de los hechos.",
+            "se encuentran facultados a actuar de modo autónomo sólo para el caso de preservar la integridad física, libertad o los bienes de las personas, no así en cambio si lo fuera al sólo efecto de preservar la prueba de los hechos.",
+            "deben obtener una orden judicial escrita, para proceder a la misma, siendo nula la requisa practicada de forma autónoma por la policía."
+        ],
+        correctAnswer: "se encuentran facultados a actuar de modo autónomo siempre que sea necesario para preservar la integridad física, libertad o los bienes de las personas, o la prueba de los hechos."
+    },
+    {
+        question: "Se establece la posibilidad de cumplir la declaración testimonial de un modo formal o de un modo informal llevado a cabo por el fiscal o por un investigador delegado expresamente al efecto:",
+        options: [
+            "Sólo en los casos donde sea aplicado el Código Procesal Penal de la Nación",
+            "Sólo en los casos donde sea aplicado el Código Procesal Penal de la Ciudad Autónoma de Buenos Aires.",
+            "Expresamente en ambas legislaciones (CPPCABA y CPPN)"
+        ],
+        correctAnswer: "Sólo en los casos donde sea aplicado el Código Procesal Penal de la Ciudad Autónoma de Buenos Aires."
     }
-
-    /**************************** dejé en la página 6 del archivo curso 2021 ***************************/
+    
+    /**************************** dejé en la página 9 del archivo curso 2021 ***************************/
 ];
 
 let correctAnswersCount = 0;
