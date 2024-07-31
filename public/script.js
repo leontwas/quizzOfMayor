@@ -327,6 +327,6 @@ function displayFailureMessage() {
     `;
 
     document.getElementById('retry-button').onclick = () => {
-        window.location.href = 'index.html';
+        window.location.href = './index.html';
     };
 }
