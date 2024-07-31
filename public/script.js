@@ -354,7 +354,36 @@ const questions = [
         options: ["en dependencias cerradas de lugares habitados sólo podrá realizarse desde que salga hasta que se ponga el sol, salvo cuando concurren razones de gravedad y/o urgencia que motivan al Juez para autorizar el ingreso nocturno, lo que deberá establecerse en la resolución que ordena el registro.", "en edificios públicos y oficinas administrativas el allanamiento se practica en horario nocturno como regla general y sólo excepcionalmente desde que salga hasta que se ponga el sol.", " en dependencias cerradas de lugares habitados el allanamiento puede practicarse tanto de día como de noche, sin necesidad de fundamentación."],
         correctAnswer: "en dependencias cerradas de lugares habitados sólo podrá realizarse desde que salga hasta que se ponga el sol, salvo cuando concurren razones de gravedad y/o urgencia que motivan al Juez para autorizar el ingreso nocturno, lo que deberá establecerse en la resolución que ordena el registro."
     },
-
+    {
+        question: "En el caso de poseer varios testigos de un hecho, conforme el procedimiento de entrevista formal previsto en ambos códigos procesales penales, se llevará a cabo:",
+        options: ["una sola acta de declaración testimonial en donde aparezcan los datos de todos los testigos, con una única descripción de los hechos y en la que declaren en conjunto, pero aclarando a quién corresponde cada respuesta", "para cada declaración se labrará una acta con arreglo a las formalidades establecidas por el legislador, en donde se lo interrogará separadamente sobre los hechos.", "se pueden hacer las actas de declaración testimonial formal de las dos maneras descriptas, quedando a criterio del juez o fiscal a cargo de la investigación."],
+        correctAnswer: "para cada declaración se labrará una acta con arreglo a las formalidades establecidas por el legislador, en donde se lo interrogará separadamente sobre los hechos."
+    },
+    {
+        question: "En el CPPCABA la entrevista con el testigo",
+        options: ["puede recibirla un investigador si media delegación expresa del fiscal", "siempre deben ser efectuadas por el personal policial en el lugar o en la comisaría", "rara vez las realiza el personal policial"],
+        correctAnswer: "puede recibirla un investigador si media delegación expresa del fiscal"
+    },
+    {
+        question: "En el CPPCABA las declaraciones testimoniales que se suelen documentar en actas durante la investigación preparatoria y/o grabada, son aquellas que:",
+        options: ["revisten el carácter de definitivas o no reproducibles (por ejemplo, las de los menores)", "sea altamente probable que no pueda declarar enjuicio oral (enfermedad o eventual mudanza fuera del país)", "Todas las opciones son correctas."],
+        correctAnswer: "Todas las opciones son correctas."
+    },
+    {
+        question: "En el CPPCABA, una de las formas de registrar una declaración testimonial informal es mediante:",
+        options: ["un archivo de audio o video", "un informe del investigador escrito y firmado por él y también por el testigo", "Todas las opciones son correctas."],
+        correctAnswer: "Todas las opciones son correctas."
+    },
+    {
+        question: "En las actas de prevención se procura asentar:",
+        options: ["la identificación del imputado", "la descripción circunstanciada del hecho", "Todas las opciones son correctas."],
+        correctAnswer: "Todas las opciones son correctas."
+    },
+    {
+        question: "En las audiencias de juicio oral que tramitan bajo las reglas del CPPCABA",
+        options: ["las declaraciones de los testigos pueden ser reemplazadas por la lectura de las formalmente recibidas durante la investigación preparatoria.", "por regla general las declaraciones de los testigos no pueden ser reemplazadas por la lectura de las formalmente recibidas durante la investigación preparatoria, pero admite alguna excepción.", "las declaraciones de los testigos nunca pueden ser reemplazadas por la lectura de las formalmente recibidas durante la investigación preparatoria."],
+        correctAnswer: "por regla general las declaraciones de los testigos no pueden ser reemplazadas por la lectura de las formalmente recibidas durante la investigación preparatoria, pero admite alguna excepción."
+    },
 ];
 
 let correctAnswersCount = 0;
