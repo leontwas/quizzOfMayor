@@ -274,6 +274,46 @@ const questions = [
         options: ["Toda injerencia en los derechos de las personas sea idónea y necesaria para evitar el peligro que se pretende repeler, sin llegar a se excesiva.", "Cuente con discrecionalidad para no actuar conforme a su obligación funcional cuando de acuerdo a la circunstancia del caso su intervención seria inapropiada o inidónea para el fin.", " Privilegie las tareas y el proceder preventivo y disuasivo antes que el uso efectivo de la fuerza."],
         correctAnswer: "Cuente con discrecionalidad para no actuar conforme a su obligación funcional cuando de acuerdo a la circunstancia del caso su intervención seria inapropiada o inidónea para el fin."
     },
+    {
+        question: "Con el fin de incautar cosas ocultas que resulten relacionadas con el delito objeto de sospecha o Investigación, la requisa personal es el procedimiento mediante el cual se podría examinar...",
+        options: ["las pertenencias que guarda en su domicilio y/o la motoneta que guarda en su casa", "el cuerpo de una persona, las pertenencias que lleva consigo y/o el vehículo en que se traslada.", "las pertenencias que tiene en su lugar de trabajo y/o el vehículo laboral en el que realiza su actividad laboral"],
+        correctAnswer: "el cuerpo de una persona, las pertenencias que lleva consigo y/o el vehículo en que se traslada."
+    },
+    {
+        question: "Conforme el CPPCABA, cuando el policía deba dar fe de un procedimiento, puede reemplazar el acta escrita por una grabación de imagen en la medida que cumpla todos los requisitos legales que exige dicho acto",
+        options: ["Verdadero", "Falso", "Sólo si el imputado y/o su defensa no se oponen"],
+        correctAnswer: "Verdadero"
+    },
+    {
+        question: "Conforme el CPPN, la policía podrá proceder al allanamiento de morada sin previa orden judicial cuando:",
+        options: [" Por incendio, explosión, inundación u otro estrago se hallare amenazada la vida de los habitantes o la propiedad; Se denunciare que personas extrañas han sido vistas mientras se introducían en una casa o local, con indicios manifiestos de ir a cometer un delito.", "Se introduzca en una casa o local algún imputado de delito a quien se persigue para su aprehensión; Voces provenientes de una casa o local anunciaren que allí se está cometiendo un delito o pidan socorro; Se tenga sospechas fundadas de que en una casa o local se encuentra la víctima de una privación ilegal de la libertad y corra peligro inminente su vida o integridad física, caso en el cual el representante del MINISTERIO PUBLICO FISCAL deberá autorizar la diligencia y será necesaria su presencia en el lugar.", "Todas las opciones son correctas."],
+        correctAnswer: "Todas las opciones son correctas."
+    },
+    {
+        question: "Conforme lo regulado en el CPPCABA y en el CPPN, toda persona tiene:",
+        options: ["la obligación de concurrir al llamamiento judicial y declarar la verdad de cuanto supiere y le fuere preguntado, salvo las excepciones establecidas por la ley.", " la obligación de concurrir al llamamiento judicial y declarar la verdad de cuanto supiere y le fuere preguntado, salvo que se trate de personal policial, el cual no está obligado a declarar", " la obligación de concurrir al llamamiento judicial y declarar la verdad de cuanto supiere y le fuere preguntado, sin ningún tipo de excepción."],
+        correctAnswer: "la obligación de concurrir al llamamiento judicial y declarar la verdad de cuanto supiere y le fuere preguntado, salvo las excepciones establecidas por la ley."
+    },
+    {
+        question: "Cuando en el primer momento de la investigación, no sea posible individualizar a los autores del ilícito y a los testigos, y se encuentra una persona herida en el lugar del hecho, el personal policial debe:",
+        options: ["estar a la espera de las indicaciones del órgano judicial competente, sin el cual no es recomendable proceder", "convocar con urgencia al SAME, recabar información del suceso y luego la comunicación al órgano judicial competente", "convocar al SAME y una vez que le den el alta citarlo a la comisaría para que diga si insta la acción y en caso afirmativo consultarle sobre lo sucedido"],
+        correctAnswer: "convocar con urgencia al SAME, recabar información del suceso y luego la comunicación al órgano judicial competente"
+    },
+    {
+        question: "El caso de allanamiento urgente sin orden se encuentra previsto taxativamente:",
+        options: ["en el CPPN, pero no así en el CPPCABA.", "tanto en el CPPN como en el CPPCABA.", "en ninguno de los dos ordenamientos procesales"],
+        correctAnswer: "en el CPPN, pero no así en el CPPCABA."
+    },
+    {
+        question: "El CPPCABA establece una serie de formalidades, en lo que respecta a la reserva de identidad de los testigos:",
+        options: ["la misma sólo podrá mantenerse hasta la celebración de la audiencia de juicio.", "la misma sólo podrá mantenerse hasta la audiencia de intimación del hecho.", "la misma permanece reservada y no se exige nunca que sea revelada."],
+        correctAnswer: "la misma sólo podrá mantenerse hasta la celebración de la audiencia de juicio."
+    },
+    {
+        question: "El CPPN contempla que las declaraciones testimoniales siempre deben documentarse en actas que cumplan con las formalidades previstas por el código, en cambio el CPPCABA admite:",
+        options: ["cumplirlo formalmente como en el CPPN.", "cumplirlo de manera informal.", "Todas las opciones son correctas."],
+        correctAnswer: "Todas las opciones son correctas."
+    },
 ];
 
 let correctAnswersCount = 0;
