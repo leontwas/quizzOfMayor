@@ -527,7 +527,6 @@ const questions = [
     
     /**************************** dejé en la página 9 del archivo curso 2021 ***************************/
 ];
-
 let correctAnswersCount = 0;
 let currentQuestionIndex;
 
@@ -565,17 +564,19 @@ function checkAnswer(selectedAnswer) {
         questions.splice(currentQuestionIndex, 1);  // Remove the current question from the array
         displayRandomQuestion();
     } else {
-        displayFailureMessage();
+        displayFailureMessage(correctAnswer);
     }
 }
 
-function displayFailureMessage() {
+function displayFailureMessage(correctAnswer) {
     const quizContainer = document.getElementById('quiz-container');
     quizContainer.innerHTML = `
         <h2>Incorrecto.</h2>
+        <p>La respuesta correcta es: ${correctAnswer}</p>
+        <p>Debes seguir estudiando.</p>
         <p>Respuestas correctas: ${correctAnswersCount}</p>
         <img src="./images/image1.png" alt="Imagen de error" class="img-fluid">
-        <button id="retry-button" class="btn btn-primary mt-3">Reintentar</button>
+        <button id="retry-button" class="btn btn-danger mt-3">Reintentar</button>
     `;
 
     document.getElementById('retry-button').onclick = () => {
