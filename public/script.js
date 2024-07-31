@@ -329,6 +329,32 @@ const questions = [
         options: ["innecesario, ya que solamente es el instructor del sumario.", ") fundamental porque ha sido uno de los testigos privilegiados, por el rol que desempeñan como principales auxiliares de la justicia, ya que tienen a su cargo no sólo la prevención de las conductas delictivas sino también son quienes generalmente confeccionan el sumario policial que da origen al proceso penal.", "sobreabundante, ya que se cuenta con las actas labradas y la declaración de los testigos."],
         correctAnswer: ") fundamental porque ha sido uno de los testigos privilegiados, por el rol que desempeñan como principales auxiliares de la justicia, ya que tienen a su cargo no sólo la prevención de las conductas delictivas sino también son quienes generalmente confeccionan el sumario policial que da origen al proceso penal."
     },
+    {
+        question: "En cuanto a la citación y compareciencia de los testigo, conforme el CPPCABA, el Fiscal:",
+        options: ["no podrá ordenar la detención de testigos bajo ningún concepto.", "podrá ordenar la detención de un testigo cuando haya temor fundado de que se oculte, fugue o ausente, con inmediata noticia al/la Juez/a. Esta medida durará el tiempo indispensable para recibir la declaración, el que nunca podrá exceder de veinticuatro (24) horas.", "Ninguna de las opciones es correcta."],
+        correctAnswer: "podrá ordenar la detención de un testigo cuando haya temor fundado de que se oculte, fugue o ausente, con inmediata noticia al/la Juez/a. Esta medida durará el tiempo indispensable para recibir la declaración, el que nunca podrá exceder de veinticuatro (24) horas."
+    },
+    {
+        question: "En cuanto a la rúbrica de las actas escritas, el CPPCABA exige:",
+        options: ["sólo la firma del imputado", "la firma del personal policial y del imputado", "la firma de todos sus participantes y si alguna de ellos se negara a firmar, se dejará constancia."],
+        correctAnswer: "la firma de todos sus participantes y si alguna de ellos se negara a firmar, se dejará constancia."
+    },
+    {
+        question: "En cuanto a las formalidades de la orden:",
+        options: ["como el allanamiento es un acto que por su naturaleza es definitivo e irreproducible, el funcionario policial deberá estar asistido por dos testigos de actuación que no pueden pertenecer al mismo organismo del cual forma parte el personal actuante.", "como el allanamiento es un acto que no resulta definitivo y se puede reproducir, no requiere la presencia de testigos.", "como el allanamiento es un acto que no resulta definitivo y se puede reproducir, los testigos pueden ser parte del mismo órgano del cual forma parte el personal actuante."],
+        correctAnswer: "como el allanamiento es un acto que por su naturaleza es definitivo e irreproducible, el funcionario policial deberá estar asistido por dos testigos de actuación que no pueden pertenecer al mismo organismo del cual forma parte el personal actuante."
+    },
+    {
+        question: "En cuanto a las formalidades y advertencias previas de la declaración testimonial, el CPPCABA y el CPPN",
+        options: [" establecen que el testigo debe ser instruido sobre las penas del falso testimonio y que prestará juramento de decir verdad.", "no establecen formalidades, dejándolo al libre albedrio del instructor.", "establecen que bajo ningún punto se lo debe presionar al testigo informándole las penas con que se reprime el falso testimonio."],
+        correctAnswer: " establecen que el testigo debe ser instruido sobre las penas del falso testimonio y que prestará juramento de decir verdad."
+    },
+    {
+        question: "En cuanto al horario de los allanamientos, el CPPCABA y el CPPN establecen que:",
+        options: ["en dependencias cerradas de lugares habitados sólo podrá realizarse desde que salga hasta que se ponga el sol, salvo cuando concurren razones de gravedad y/o urgencia que motivan al Juez para autorizar el ingreso nocturno, lo que deberá establecerse en la resolución que ordena el registro.", "en edificios públicos y oficinas administrativas el allanamiento se practica en horario nocturno como regla general y sólo excepcionalmente desde que salga hasta que se ponga el sol.", " en dependencias cerradas de lugares habitados el allanamiento puede practicarse tanto de día como de noche, sin necesidad de fundamentación."],
+        correctAnswer: "en dependencias cerradas de lugares habitados sólo podrá realizarse desde que salga hasta que se ponga el sol, salvo cuando concurren razones de gravedad y/o urgencia que motivan al Juez para autorizar el ingreso nocturno, lo que deberá establecerse en la resolución que ordena el registro."
+    },
+
 ];
 
 let correctAnswersCount = 0;
