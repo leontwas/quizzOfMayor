@@ -144,12 +144,7 @@ const questions = [
         options: ["Verdadero", "Falso"],
         correctAnswer: "Verdadero"
     },
-    {
-        question: "Contando con uno o a lo sumo dos testigos directos del hecho, no hace falta identificar al resto de las personas presentes que pudieran haber sido testigos directos o indirectos del hecho.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: "Falso"
-    },
-    {
+     {
         question: "En el marco del proceso contravencional en caso de existir riesgo de entorpecimiento de la investigación, se puede INCOMUNICAR al presunto contraventor.",
         options: ["Verdadero", "Falso"],
         correctAnswer: "Falso"
@@ -195,7 +190,7 @@ const questions = [
         correctAnswer: "Ambas repuestas son correctas"
     },
     {
-        question: "Cuando la Policía detiene a una persona conforme a la facultad que le ortega la Ley de Seguridad Publica, a diferencia de la detención del Código Procesal.",
+        question: "Cuando la Policía detiene a una persona conforme a la facultad que le otorga la Ley de Seguridad Pública, a diferencia de la detención del Código Procesal.",
         options: [" No hace falta comunicárselo al fiscal", "La detención no puede exceder las 4 horas", "Ambas repuestas son correctas"],
         correctAnswer: "La detención no puede exceder las 4 horas"
     },
@@ -215,7 +210,7 @@ const questions = [
         correctAnswer: "Se adopten medidas precautorias (detención, secuestro, clausura, etc.)"
     },
     {
-        question: "La prohibición u obstáculo de declarar contra un miembro directo de la familia cede cuando.",
+        question: "La prohibición u obstáculo de declarar contra un miembro directo de la familia cede cuando:",
         options: ["El hecho fue cometido contra un denunciante o contra un familiar de un grado igual o más próximo.", "El hecho sea cometido contra un menor de edad", "Ambas repuestas son correctas"],
         correctAnswer: "Ambas repuestas son correctas"
     },
@@ -471,7 +466,7 @@ const questions = [
         correctAnswer: "en ningún caso"
     },
     {
-        question: "Los menores de dieciocho años pueden ser testigos de actuación",
+        question: "Los menores de dieciocho años pueden ser testigos de actuación:",
         options: [
             "cuando resultan víctimas",
             "en ningún caso",
@@ -525,7 +520,7 @@ const questions = [
         correctAnswer: "Sólo en los casos donde sea aplicado el Código Procesal Penal de la Ciudad Autónoma de Buenos Aires."
     },
         {
-            question: "Ser testigo de actuación es una carga pública que",
+            question: "Ser testigo de actuación es una carga pública que:",
             options: [
                 "no admite ningún tipo de excepción",
                 "admite algunas excepciones previstas por los códigos procesales",
